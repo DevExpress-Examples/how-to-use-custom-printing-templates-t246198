@@ -3,7 +3,7 @@
 
 * [SLGridExampleTestPage.aspx](./CS/SLGridExample.Web/SLGridExampleTestPage.aspx)
 * **[MainPage.xaml](./CS/SLGridExample/MainPage.xaml) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))**
-* [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SLGridExample/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SLGridExample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SLGridExample/MainPage.xaml.vb))
 * [TestData.cs](./CS/SLGridExample/Model/TestData.cs) (VB: [TestData.vb](./VB/SLGridExample/Model/TestData.vb))
 * [PrintingTempates.xaml](./CS/SLGridExample/Themes/PrintingTempates.xaml) (VB: [PrintingTempates.xaml](./VB/SLGridExample/Themes/PrintingTempates.xaml))
 <!-- default file list end -->
